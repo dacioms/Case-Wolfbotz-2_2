@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Sumo1",
+			"path": "Sumo1"
+		}
+	],
+	"settings": {
+		"cmake.configureArgs": []
+	}
+}
